@@ -8236,6 +8236,24 @@ h1, h2, h3, h4, h5,
     .hero-wrap.hero-wrap-2 .slider-text {
       height: 300px !important; }
 
+
+      .hero-wrap.hero-wrap-2a {
+        height: 450px !important;
+        position: relative; }
+        .hero-wrap.hero-wrap-2a .overlay {
+          width: 100%;
+          height: 450px;
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          content: '';
+          opacity: 1; }
+        .hero-wrap.hero-wrap-2a .slider-text {
+          height: 450px !important; }
+
+
 .slider-text {
   height: 700px;
   position: relative; }
